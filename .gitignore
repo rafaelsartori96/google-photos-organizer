@@ -1,0 +1,3 @@
+# Ignoramos arquivos json (relatórios)
+*.json
+
